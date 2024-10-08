@@ -1,0 +1,11 @@
+```yml
+### Config file for the lab FileManagement by KoenK
+### Do not change this file
+name: Koen K
+lessons:
+- Virtualization
+- Linux Commands
+- Docker
+contact:
+koen.koreman@howest.be
+```
